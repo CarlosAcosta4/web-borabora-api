@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Minimarket "Bora Bora" Web App
 Este proyecto consiste en una aplicación web de catálogo para el Minimarket "Bora Bora". El objetivo principal es permitir a los clientes acceder al catálogo de productos desde la comodidad de sus hogares, además de proporcionar una herramienta de gestión y administración del almacén para el personal autorizado.
 
@@ -54,4 +56,12 @@ Backend: Java, Spring Boot, base de datos MySQL.
   </tr>
 </table>
 
+<br>
+
+## 💻 Autores
+<a href="https://github.com/CarlosAcosta4/apirest-borabora-android-kotlin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CarlosAcosta4/apirest-borabora-android-kotlin" />
+</a>
+
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 

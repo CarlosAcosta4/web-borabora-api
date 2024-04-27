@@ -59,9 +59,10 @@ Backend: Java, Spring Boot, base de datos MySQL.
 <br>
 
 ## 💻 Autores
-<a href="https://github.com/CarlosAcosta4/apirest-borabora-android-kotlin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CarlosAcosta4/apirest-borabora-android-kotlin" />
-</a>
+- Acosta Andrade, Carlos Jesús
+- Prieto Bravo, Brigitte Nicole
+- Ferre Espinoza, Jefferson Mackinni 
+- Flores Rojas, Jhon Wilber
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
